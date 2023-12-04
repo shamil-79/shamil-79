@@ -53,7 +53,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamil-79&show_icons=true&locale=en" alt="shamil-79" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamil-79&" alt="shamil-79" /></p>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](github-contribution-grid-snake.gif)
 
 
 
