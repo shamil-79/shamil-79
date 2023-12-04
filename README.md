@@ -54,6 +54,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamil-79&" alt="shamil-79" /></p>
 
-![snake gif](https://github.com/shamil-79/shamil-79/blob/output/github-contribution-grid-snake.gif)
+###
+
+![Snake animation](https://github.com/shamil-79/shamil-79/blob/9608c31d07f368caa2ff1c7963a64d3297c852e4/snake.svg)
+
+###
 
 
