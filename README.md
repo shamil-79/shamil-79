@@ -1,4 +1,4 @@
-![snake gif](https://github.com/shamil-79/shamil-79/blob/output/github-contribution-grid-snake.gif)
+
 
 <h1 align="center">Hi 👋, I'm Moh.Shamil-Pn</h1>
 <h3 align="center">A passionate and aspiring full-stack-web-developer from India</h3>
@@ -56,7 +56,7 @@
 
 ###
 
-![Snake animation](https://github.com/shamil-79/shamil-79/blob/9608c31d07f368caa2ff1c7963a64d3297c852e4/snake.svg)
+![snake gif](https://github.com/shamil-79/shamil-79/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
